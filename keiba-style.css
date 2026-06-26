@@ -799,6 +799,12 @@ body {
   .nav { display: none; }
   .hamburger { display: flex; }
 
+  .hero {
+    background:
+      linear-gradient(to bottom, rgba(10,10,10,0.64) 0%, rgba(10,10,10,0.86) 100%),
+      url('競馬SP.jpeg') center top / cover no-repeat;
+  }
+
   .header-inner { padding: 0 24px; }
 
   .hero-inner { padding: 100px 24px 60px; }
